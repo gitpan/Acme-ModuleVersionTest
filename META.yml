@@ -1,6 +1,6 @@
 ---
 name: Acme-ModuleVersionTest
-version: 5.10.1.1
+version: 5.8.8.3
 author:
   - 'Flavio Poletti <flavio [at] polettix [dot] it>'
 abstract: '[Una riga di descrizione dello scopo del modulo]'
@@ -13,7 +13,7 @@ requires:
 provides:
   Acme::ModuleVersionTest:
     file: lib/Acme/ModuleVersionTest.pm
-    version: 5.10.1.1
+    version: 5.8.8.3
 generated_by: Module::Build version 0.2808
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.2.html

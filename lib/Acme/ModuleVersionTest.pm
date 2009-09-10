@@ -1,6 +1,6 @@
 package Acme::ModuleVersionTest;
 
-use version; our $VERSION = qv('5.10.1.1');
+use version; our $VERSION = qv('5.8.8.3');
 
 use warnings;
 use strict;
